@@ -1,0 +1,30 @@
+package pageObjects.Calculator;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+
+public class mainPage
+{
+    @FindBy(how= How.NAME, using="Clear")
+    public WebElement btn_clear;
+
+    @FindBy(how= How.NAME, using="One")
+    public WebElement btn_one;
+
+    @FindBy(how= How.NAME, using="Plus")
+    public WebElement btn_plus;
+
+    @FindBy(how= How.NAME, using="Nine")
+    public WebElement btn_nine;
+
+    @FindBy(how= How.XPATH, using="//*[@AutomationId=]")
+    public WebElement btn_equal;
+
+
+
+
+
+
+
+}

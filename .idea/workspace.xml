@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e228489-b580-4e3d-818c-36ebfe47c091" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wwndb6gOZrEV5HgFjT5CQiJwb1" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Automation\FullStackFinalProject\Drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.grafanaWeb.test02_vefityDefaltUsers">
+    <configuration name="grafanaWeb.test01_login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sanityTest" />
+      <option name="MAIN_CLASS_NAME" value="sanityTest.grafanaWeb" />
+      <option name="METHOD_NAME" value="test01_login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="grafanaWeb.test02_vefityDefaltUsers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sanityTest" />
+      <option name="MAIN_CLASS_NAME" value="sanityTest.grafanaWeb" />
+      <option name="METHOD_NAME" value="test02_vefityDefaltUsers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mortgageMobile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sanityTest" />
+      <option name="MAIN_CLASS_NAME" value="sanityTest.mortgageMobile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mortgageMobile.test01_verifyRepayment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackFinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sanityTest" />
+      <option name="MAIN_CLASS_NAME" value="sanityTest.mortgageMobile" />
+      <option name="METHOD_NAME" value="test01_verifyRepayment" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.grafanaWeb.test02_vefityDefaltUsers" />
+        <item itemvalue="TestNG.grafanaWeb.test01_login" />
+        <item itemvalue="TestNG.mortgageMobile.test01_verifyRepayment" />
+        <item itemvalue="TestNG.mortgageMobile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e228489-b580-4e3d-818c-36ebfe47c091" name="Default Changelist" comment="" />
+      <created>1580069612897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580069612897</updated>
+    </task>
+    <servers />
+  </component>
+</project>
